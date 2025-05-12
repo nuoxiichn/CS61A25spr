@@ -104,5 +104,8 @@
     "text_encoding": "cpp",
     "typeinfo": "cpp",
     "variant": "cpp"
-  }
+  },
+  "conventionalCommits.scopes": [
+    "cats"
+  ]
 }
